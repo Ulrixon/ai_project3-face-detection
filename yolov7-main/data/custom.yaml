@@ -1,0 +1,6 @@
+train: /mnt/c/Users/ryan7/Downloads/wilder_face_yolo +FDDB/wider_face_train_yolo
+val: /mnt/c/Users/ryan7/Downloads/wilder_face_yolo +FDDB/wider_face_valid_yolo
+test: /mnt/c/Users/ryan7/Downloads/wilder_face_yolo +FDDB/wider_face_valid_yolo
+
+nc: 1
+names: ['face']

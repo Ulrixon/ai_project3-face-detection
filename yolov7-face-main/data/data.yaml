@@ -1,0 +1,6 @@
+train: /mnt/c/Users/ryan7/Documents/GitHub/ai_project3/train
+val: /mnt/c/Users/ryan7/Documents/GitHub/ai_project3/valid
+test: /mnt/c/Users/ryan7/Documents/GitHub/ai_project3/test
+
+nc: 1
+names: ['face']
